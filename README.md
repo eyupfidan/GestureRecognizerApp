@@ -1,7 +1,7 @@
 
 # GestureRecognizer 
 
-Used GestureRecognizer
+Using GestureRecognizer
 
 
 
